@@ -1,0 +1,16 @@
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\obj\Release\LeadingCode.csprojResolveAssemblyReference.cache
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NFine.Code.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NFine.Code.pdb
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\log4net.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\Newtonsoft.Json.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NPOI.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NPOI.OOXML.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NPOI.OpenXml4Net.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\Newtonsoft.Json.xml
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\obj\Release\NFine.Code.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\obj\Release\NFine.Code.pdb
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\System.Net.Http.dll
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\System.Net.Http.xml
+C:\Code\Leading\后台管理系统\LeadingOAM\LeadingCode\bin\Release\zh-Hans\System.Net.Http.resources.dll

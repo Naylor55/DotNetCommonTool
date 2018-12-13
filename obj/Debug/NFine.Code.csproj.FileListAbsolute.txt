@@ -1,0 +1,17 @@
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NFine.Code.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NFine.Code.pdb
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\log4net.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\log4net.xml
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.xml
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.xml
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.xml
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.xml
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.dll
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.pdb
+E:\Code\后台管理系统\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.csprojResolveAssemblyReference.cache
